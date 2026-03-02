@@ -13,6 +13,8 @@
   "devDependencies": {
     "@types/node": "^22",
     "@types/react": "^19",
+    "some-library-cjs": "file:dependency-cjs",
+    "some-library-esm": "file:dependency-esm",
     "typescript": "^5"
   }
 }
